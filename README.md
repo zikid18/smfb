@@ -2,12 +2,8 @@
 ```
 Simple multi bruteforce facebook
 ```
-<p align="center">
-<a href="https://instagram.com/zikid18">
-<img title="Instagram" src="https://img.shields.io/instagram/Zikid18?color=blue&style=flat-square"></a>
-<a href="https://saweria.co/zikid">
-<img title="Donate" src="https://img.shields.io/donate?color=yellow&style=flat-square"></a>
-</p>
+[Donasi](https://saweria.co/zikid)
+
 # Fiture
 
 + Login using token
