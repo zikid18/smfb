@@ -6,7 +6,7 @@ Simple multi bruteforce facebook
 
 [Donasi](https://saweria.co/zikid)
 
-[Instagram[(https://instagram.com/zikid18)
+[Instagram](https://instagram.com/zikid18)
 
 # Fiture
 
